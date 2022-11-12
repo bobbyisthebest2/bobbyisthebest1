@@ -1,1 +1,16 @@
-
+//script
+  (`welcome to the chat`)
+    //script
+alert(`hi`)
+alert(`how are you?`)
+alert(`hope you are good`)
+alert(`press ok if you are good`)
+alert(`sausage slime`)
+alert(`food cheese`)
+alert(`stinky stiff`)
+alert(`not yum`)
+alert(`in fact disgusting`)
+alert(`definitly not yum`)
+alert(`anyways...`)
+alert(`back to idk what`)
+alert(`thank you for parcicipating!`)
